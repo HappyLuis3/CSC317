@@ -85,3 +85,4 @@ function quickSort(arr) {
 
     return [...quickSort(left), pivot, ...quickSort(right)];
 }
+© 2025 SF State University - Intro to Web Development
